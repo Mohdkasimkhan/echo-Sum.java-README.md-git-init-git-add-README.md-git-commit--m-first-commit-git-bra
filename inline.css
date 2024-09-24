@@ -1,0 +1,45 @@
+#navbar{
+    height: 60px;
+    background-color: black;
+    border: 2px solid white;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+#one{
+color: orange;
+margin-right: 200px;
+font-size: 20px; 
+text-decoration: none;
+}
+.two{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+  
+
+}
+button{
+    background-color: orange;
+    color: white;
+
+}
+.content{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+    background-color: red;
+    border: 2px solid black;
+  
+}
+footer{
+    text-align: center;
+    
+    background-color: black;
+    color: white;
+}
+div{
+    height: 500px;
+}

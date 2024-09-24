@@ -1,0 +1,45 @@
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: yellowgreen;
+    color: aliceblue;
+    font-size: large;
+    border-radius: 2px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+
+}
+.box:nth-of-type(2){
+    position: absolute;
+    background-color: aqua;
+    top: 10px;
+   
+}
+.box:nth-of-type(3){
+    position: relative;
+    background-color: rgb(255, 0, 153);
+    top: 10px;
+}
+.box:nth-of-type(4){
+    position: fixed;
+    background-color: rgb(255, 0, 0);
+   width: 100vw;
+   right: 10px;
+   
+  
+   bottom: 0;
+  
+}
+  .box:nth-of-type(5){
+    position: sticky;
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+
+  }
+  p{
+color: blueviole\
+;
+  }

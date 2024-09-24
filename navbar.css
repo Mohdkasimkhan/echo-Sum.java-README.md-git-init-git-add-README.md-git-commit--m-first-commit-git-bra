@@ -1,0 +1,29 @@
+div{
+    height: 60px;
+    background-color: black;
+    border: 2px solid white;
+}
+body{
+    background-color: rgb(7, 7, 42);
+}
+#one{
+color: orange;
+margin-right: 200px;
+font-size: 20px; 
+text-decoration: none;
+}
+.two{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+  
+
+}
+button{
+    background-color: orange;
+    color: white;
+
+}
+#three{
+  
+}
